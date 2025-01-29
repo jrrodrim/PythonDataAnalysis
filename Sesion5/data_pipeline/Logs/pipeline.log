@@ -1,0 +1,49 @@
+2025-01-25 16:29:47,305 - INFO - Conexion establecida a la base de datos
+2025-01-25 16:30:54,736 - INFO - Conexion establecida a la base de datos
+2025-01-25 16:30:54,737 - ERROR - Errror al leer el Archivodata/deparments.csv
+2025-01-25 16:31:30,117 - INFO - Conexion establecida a la base de datos
+2025-01-25 16:31:30,117 - ERROR - Errror al leer el Archivodata/departments.csv
+2025-01-25 16:32:34,103 - INFO - Conexion establecida a la base de datos
+2025-01-25 16:32:34,105 - INFO - Archivodata/departments.csv leido correctamente
+2025-01-25 16:32:34,119 - INFO - Archivodata/customers.csv leido correctamente
+2025-01-25 17:05:40,429 - INFO - Conexion establecida a la base de datos
+2025-01-25 17:05:40,431 - INFO - Archivodata/departments.csv leido correctamente
+2025-01-25 17:05:40,445 - INFO - Archivodata/customers.csv leido correctamente
+2025-01-25 17:05:40,450 - ERROR - Errror al leer el Archivodata/customer.csv
+2025-01-25 17:07:42,724 - INFO - Conexion establecida a la base de datos
+2025-01-25 17:07:42,726 - INFO - Archivodata/departments.csv leido correctamente
+2025-01-25 17:07:42,740 - INFO - Archivodata/customers.csv leido correctamente
+2025-01-25 17:07:42,745 - ERROR - Errror al leer el Archivodata/customer.csv
+2025-01-25 17:10:10,127 - INFO - Conexion establecida a la base de datos
+2025-01-25 17:10:10,129 - INFO - Archivodata/departments.csv leido correctamente
+2025-01-25 17:10:10,143 - INFO - Archivodata/customers.csv leido correctamente
+2025-01-25 17:10:10,148 - ERROR - Errror al leer el Archivodata/customer.csv
+2025-01-25 17:11:03,660 - INFO - Conexion establecida a la base de datos
+2025-01-25 17:11:03,662 - INFO - Archivodata/departments.csv leido correctamente
+2025-01-25 17:11:03,677 - INFO - Archivodata/customers.csv leido correctamente
+2025-01-25 17:11:03,683 - INFO - Archivodata/categories.csv leido correctamente
+2025-01-25 17:12:19,847 - INFO - Conexion establecida a la base de datos
+2025-01-25 17:12:19,849 - INFO - Archivodata/departments.csv leido correctamente
+2025-01-25 17:12:19,862 - INFO - Archivodata/customers.csv leido correctamente
+2025-01-25 17:12:19,868 - INFO - Archivodata/categories.csv leido correctamente
+2025-01-25 17:12:19,879 - INFO - Archivodata/products.csv leido correctamente
+2025-01-25 17:13:02,258 - INFO - Conexion establecida a la base de datos
+2025-01-25 17:13:02,260 - INFO - Archivodata/departments.csv leido correctamente
+2025-01-25 17:13:02,274 - INFO - Archivodata/customers.csv leido correctamente
+2025-01-25 17:13:02,280 - INFO - Archivodata/categories.csv leido correctamente
+2025-01-25 17:13:02,283 - INFO - Archivodata/products.csv leido correctamente
+2025-01-29 01:37:42,786 - INFO - Conexión a la base de datos establecida correctamente.
+2025-01-29 01:37:42,790 - INFO - Archivo data/departments.csv leído exitosamente.
+2025-01-29 01:37:42,794 - INFO - Archivo data/categories.csv leído exitosamente.
+2025-01-29 01:37:42,821 - INFO - Archivo data/customers.csv leído exitosamente.
+2025-01-29 01:37:42,833 - INFO - Archivo data/products.csv leído exitosamente.
+2025-01-29 01:37:42,880 - INFO - Archivo data/orders.csv leído exitosamente.
+2025-01-29 01:37:42,959 - INFO - Archivo data/order_items.csv leído exitosamente.
+2025-01-29 01:37:42,974 - INFO - Recalculando order_item_subtotal.
+2025-01-29 01:37:43,039 - INFO - Datos cargados exitosamente en la tabla departments.
+2025-01-29 01:37:43,046 - INFO - Datos cargados exitosamente en la tabla categories.
+2025-01-29 01:37:43,668 - INFO - Datos cargados exitosamente en la tabla customers.
+2025-01-29 01:37:43,771 - INFO - Datos cargados exitosamente en la tabla products.
+2025-01-29 01:37:45,842 - INFO - Datos cargados exitosamente en la tabla orders.
+2025-01-29 01:37:52,178 - INFO - Datos cargados exitosamente en la tabla order_items.
+2025-01-29 01:37:52,178 - INFO - Pipeline de datos ejecutado exitosamente.
